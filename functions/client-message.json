@@ -1,0 +1,31 @@
+{
+    "client_msg_id": "03106cbd-d61c-46d0-bb91-32c115db8863",
+    "type": "message",
+    "text": "
+  @stgreenpikachu
+   eeeee",
+    "user": "U0380EV7ZPZ",
+    "ts": "1661620452.499439",
+    "team": "TDE5Y8GU8",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "twM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03UTUXL9C4"
+              },
+              {
+                "type": "text",
+                "text": " eeeee"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,31 @@
+{
+  "client_msg_id": "5dca742f-a547-45fa-9265-84f0379db908",
+  "type": "message",
+  "text": "
+@stgreenpikachu
+ sds",
+  "user": "U0380EV7ZPZ",
+  "ts": "1661620268.188919",
+  "team": "TDE5Y8GU8",
+  "blocks": [
+    {
+      "type": "rich_text",
+      "block_id": "vc5s9",
+      "elements": [
+        {
+          "type": "rich_text_section",
+          "elements": [
+            {
+              "type": "user",
+              "user_id": "U03UTUXL9C4"
+            },
+            {
+              "type": "text",
+              "text": " sds"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

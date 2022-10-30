@@ -1,0 +1,59 @@
+{
+  "bot_id": "B03URCBCLUB",
+  "type": "message",
+  "text": "Item: `
+@stgreenpikachu
+ ddd` is Count1: 2 and Count2: 3!",
+  "user": "U03UTUXL9C4",
+  "ts": "1661620445.072589",
+  "app_id": "A03UQ1V4JP4",
+  "team": "TDE5Y8GU8",
+  "bot_profile": {
+    "id": "B03URCBCLUB",
+    "deleted": false,
+    "name": "FBI",
+    "updated": 1661598422,
+    "app_id": "A03UQ1V4JP4",
+    "icons": {
+      "image_36": "https://avatars.slack-edge.com/2022-08-27/4000494659826_75e92080dd2a14c1a5f2_36.jpg",
+      "image_48": "https://avatars.slack-edge.com/2022-08-27/4000494659826_75e92080dd2a14c1a5f2_48.jpg",
+      "image_72": "https://avatars.slack-edge.com/2022-08-27/4000494659826_75e92080dd2a14c1a5f2_72.jpg"
+    },
+    "team_id": "TDE5Y8GU8"
+  },
+  "blocks": [
+    {
+      "type": "rich_text",
+      "block_id": "FNB",
+      "elements": [
+        {
+          "type": "rich_text_section",
+          "elements": [
+            {
+              "type": "text",
+              "text": "Item: "
+            },
+            {
+              "type": "user",
+              "user_id": "U03UTUXL9C4",
+              "style": {
+                "code": true
+              }
+            },
+            {
+              "type": "text",
+              "text": " ddd",
+              "style": {
+                "code": true
+              }
+            },
+            {
+              "type": "text",
+              "text": " is Count1: 2 and Count2: 3!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
